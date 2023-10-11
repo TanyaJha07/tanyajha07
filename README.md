@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 
 
 
-**TanyaJha07/tanyajha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TanyaJha07/tanyajha07** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
